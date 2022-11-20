@@ -16,9 +16,9 @@ root                    (project root folder)
 +-- Jumper             (source code for game)
   +-- game              (specific game classes)
     +-- director.py
-    +-- graphic_manager.py
+    +-- graphic.py
     +-- terminal_server.py
-    +-- word_manager.py
+    +-- word.py
   +-- __init__.py       (python package file)
   +-- __main__.py       (entry point for program)
   +-- README.md           (general info)
